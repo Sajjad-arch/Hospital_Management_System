@@ -197,7 +197,7 @@ Patient[ID=101 | Name=Rahim Uddin | Age=45 | Diagnosis=Hypertension]
 ## Author
 
 **Sajjad** — CSE Student, Southeast University (SEU), Dhaka  
-*Cybersecurity Specialization | Java OOP Lab Assignment*
+*Java OOP Lab Assignment*
 
 ---
 
